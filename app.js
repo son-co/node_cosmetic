@@ -54,8 +54,8 @@ db.once("open", function() {
 var Router = require('./routes/routes.js')
 app.use(Router);
 
-app.listen(3000, () => {
-    console.log("Server is running at port 3000");
+app.listen(3030, () => {
+    console.log("Server is running at port 3030");
 });
 
 module.exports = app;

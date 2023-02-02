@@ -22,6 +22,7 @@
     "mongoose": "^6.2.9",
     "morgan": "~1.9.1",
     "node-localstorage": "^2.2.1",
+    "nodemailer": "^6.9.1",
     "update": "^0.7.4"
   }
 }
